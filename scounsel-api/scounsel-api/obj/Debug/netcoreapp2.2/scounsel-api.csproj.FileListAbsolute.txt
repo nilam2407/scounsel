@@ -1,0 +1,16 @@
+D:\Nilam\newazure\scounsel-api\scounsel-api\obj\Debug\netcoreapp2.2\scounsel-api.csprojAssemblyReference.cache
+D:\Nilam\newazure\scounsel-api\scounsel-api\obj\Debug\netcoreapp2.2\scounsel-api.RazorAssemblyInfo.cache
+D:\Nilam\newazure\scounsel-api\scounsel-api\obj\Debug\netcoreapp2.2\scounsel-api.RazorAssemblyInfo.cs
+D:\Nilam\newazure\scounsel-api\scounsel-api\obj\Debug\netcoreapp2.2\scounsel-api.AssemblyInfoInputs.cache
+D:\Nilam\newazure\scounsel-api\scounsel-api\obj\Debug\netcoreapp2.2\scounsel-api.AssemblyInfo.cs
+D:\Nilam\newazure\scounsel-api\scounsel-api\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Nilam\newazure\scounsel-api\scounsel-api\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Nilam\newazure\scounsel-api\scounsel-api\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\Nilam\newazure\scounsel-api\scounsel-api\bin\Debug\netcoreapp2.2\scounsel-api.deps.json
+D:\Nilam\newazure\scounsel-api\scounsel-api\bin\Debug\netcoreapp2.2\scounsel-api.runtimeconfig.json
+D:\Nilam\newazure\scounsel-api\scounsel-api\bin\Debug\netcoreapp2.2\scounsel-api.runtimeconfig.dev.json
+D:\Nilam\newazure\scounsel-api\scounsel-api\bin\Debug\netcoreapp2.2\scounsel-api.dll
+D:\Nilam\newazure\scounsel-api\scounsel-api\bin\Debug\netcoreapp2.2\scounsel-api.pdb
+D:\Nilam\newazure\scounsel-api\scounsel-api\obj\Debug\netcoreapp2.2\scounsel-api.RazorTargetAssemblyInfo.cache
+D:\Nilam\newazure\scounsel-api\scounsel-api\obj\Debug\netcoreapp2.2\scounsel-api.dll
+D:\Nilam\newazure\scounsel-api\scounsel-api\obj\Debug\netcoreapp2.2\scounsel-api.pdb
